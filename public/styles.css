@@ -119,9 +119,11 @@
   
   .nbutton {
     position: relative;
+    border-radius: 10%;
     float: right;
     margin-right: 10px;
-    color: #58db8a;
+    background-color: #fff;
+    color: #000000;
     border: none;
     width: 60px;
     height: 36px;
@@ -131,6 +133,7 @@
   
   .nbutton:hover{
     position: relative;
+    border-radius: 10%;
     float: right;
     margin-right: 10px;
     color: #000000;
